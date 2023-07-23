@@ -1,0 +1,15 @@
+.pokemon-layout {
+    width: 100%;
+  }
+  
+  .pokemon-table-container {
+    width: 100%;
+    flex-grow: 1;
+  }
+  
+  .spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

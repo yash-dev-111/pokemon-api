@@ -1,0 +1,10 @@
+.nav-bell {
+    font-size: 24px;
+    color: black;
+    transition: color 0.3s; 
+  }
+  
+  .nav-bell:hover {
+    cursor: pointer;
+  }
+

@@ -1,0 +1,16 @@
+
+
+
+@media screen and (max-width: 768px) {
+    .pages{
+        margin-top: 4rem;
+    }
+
+}
+
+@media screen and (min-width: 769px) {
+    .pages{
+        margin-top: 4rem;
+        margin-left: 2rem;
+    }
+}
